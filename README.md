@@ -1,15 +1,15 @@
-# Xircuits Project Template
+# Xpress AI Platform RAG Chat bot Template
 
-A Xircuits Project Template is a project that utilizes the Xircuits engine, whether it is training a model or running a workflow.
+Use this tempate on the [Xpress AI Platform](https://xpress.ai) to create a 
+simple RAG chat bot. 
 
-This section should have a short description on what is does.
+For some more examples on how to use the Converse Component Library, check out 
+the [examples that are included with the library](https://github.com/XpressAI/xai-converse)
 
-## Prerequisites
+To run the template as an example, you will need to [request a Vecto API Key for
+the Wikipedia Vector Space](https://www.vecto.ai/request-free-wikipedia-db-access)
 
-A project may have prerequisites such as models that needs to be downloaded or non-python related setup. You may list them down here.
-
-## Installation
-
-```bash
-bash setup.sh
-```
+# Used Components
+- [Vecto Component Library](https://github.com/XpressAI/xai-vecto)
+- [Converse Component Library](https://github.com/XpressAI/xai-converse)
+- [Xpress AI Platform Component Library](https://github.com/XpressAI/xai-xpressai)
